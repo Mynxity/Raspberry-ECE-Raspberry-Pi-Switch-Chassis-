@@ -21,6 +21,7 @@ A 3d Printed Mount That Attaches A Raspberry Pi, Screen, Speakers, Battery Pack,
 8. Screw The Waveshare UPS Hat into the standoffs in the Raspberry Pi
 9. Admire Your Work and Enjoy!
     ![Banner](IMG_9667.jpeg)
+    ![Banner](IMG_9668.jpeg)
    
 # Connecting to RetroPie
 This is the most tedious part. Slide the joycons out of the chassis and hold the pairing button on the sides, making sure that any other devices they could connect to are turned off or have bluetooth disabled. Follow this official opensource guide from RetroPie: [https://retropie.org.uk/docs/Nintendo-Switch-Controllers/]
